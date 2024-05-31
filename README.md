@@ -1,6 +1,6 @@
 # Angry Bullets Game
 
-This project is developed as part of the CMPE160 Introduction to Object-Oriented Programming course at Bogazici University. The project is a simple Angry Birds like game develop in Java. Many of the details of the project can be found in the report file. The objectives of the assignment can be found in assignment.pdf
+This project is developed as part of the CMPE160 Introduction to Object-Oriented Programming course at Bogazici University. The project is a simple Angry Birds like game develop in Java. Many of the details of the project can be found in the report file.
 
 ## How to Play
 
